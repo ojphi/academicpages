@@ -11,35 +11,42 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* PhD in Physics, Imperial College London, 2024 - present
+  * Supervisor: Prof. John Tisch
+* MSci in Physics with a Year Abroad, Imperial College London/Universiteit Utrecht, 2024
+  * Master's supervisor: Prof. Dr. Peter van der Straten
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
+* Summer 2023: Monash University
   * GitHub University
   * Duties includes: Updates and improvements to template
   * Supervisor: The Users
 
-* Fall 2015: Research Assistant
+* Summer 2021: Weizmann Institute of Science
   * GitHub University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
 
-* Summer 2015: Research Assistant
+* Summer 2020: Weizmann Institute of Science, 
+  * GitHub University
+  * Duties included: Tagging issues
+  * Supervisor: Professor Git
+
+* Summer 2019: Heidelberg Institute for Theoretical Studies
   * GitHub University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Electronics
+  * Amateur radio licence holder (M0JEI)
+* Programming
+  * Python
+  * MATLAB
+  * Mathematica
+  * Julia
 
 Publications
 ======
@@ -47,18 +54,11 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
 Teaching
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Advanced Electronics
+  * Undergraduate practical electronics course
+  * Demonstrated using components like op-amps and basic integrated circuits to build analogue computers and phase locked loops
+* Saturday Science Club
+  * Holiday club for primary school children and their families
+  * Ran practical sessions for children 
